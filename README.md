@@ -1,9 +1,7 @@
 # hubble-website-final
-Hubble telescope responsive website.
-My first responsive website made on the first year of college.
-
-hope you like this simple website.
+Hubble telescope website.
 
 link to the website: https://obscure-cliffs-57677.herokuapp.com/
 
+hope you like it.
 it was fun to make.
